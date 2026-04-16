@@ -1,4 +1,4 @@
-
+<a href="https://doi.org/10.5281/zenodo.19600223"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.19600223.svg" alt="DOI"></a>
 # MRAM-MOTO 🏍️
 
 **Conceito de célula auxética para pesquisa em aplicações de motocicletas**
