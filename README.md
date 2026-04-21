@@ -1,3 +1,9 @@
+> **⚠️ AVISO LEGAL - PROPRIEDADE INTELECTUAL** 
+> **MRAM-MOTO® K1 StreetSafe** é marca em processo de registro por Francielle Kunast (2026). 
+> **Autoria comprovada:** DOI [10.5281/zenodo.16750937](https://doi.org/10.5281/zenodo.16750937) - 16/ABR/2026 
+> **Licença:** CERN-OHL-W-2.0 - Uso do código livre com atribuição. Uso comercial da marca requer licenciamento.
+
+---
 <a href="https://doi.org/10.5281/zenodo.16750937"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16750937.svg" alt="DOI"></a>[[▶️ Assistir Lançamento](https://img.shields.io/badge/▶️_Assistir_Lançamento-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/francielle-kunast-possari-calazans-785a202a5_openscience-engenharia-inovaaexaeto-activity-7450569613093826561-fI44)
 
 [Status](https://img.shields.io/badge/Status-Conceitual-yellow)
