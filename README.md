@@ -1,8 +1,7 @@
 
- ⚠️ TECNOLOGIA PROPRIETÁRIA - PATENTE PENDENTE
+ ⚠️ TECNOLOGIA PROPRIETÁRIA 
 
 MRAM-MOTO® K1 StreetSafe é segredo industrial de Francielle Kunast.
-PATENTE PENDENTE BR 10 2026 XXXXXX-X | LEI 9.279/96
 
 Geometria, dimensões e código NÃO são públicos.
 Uso comercial, fabricação ou engenharia reversa proibidos sem contrato.
@@ -19,14 +18,13 @@ g>##**⚠️ AVISO LEGAL - PROPRIEDADE INTELECTUAL**
 
 ## Status Legal
 
-**PROJETO PROPRIETÁRIO. PATENTE PENDENTE BR 10 2026 XXXXXX-X.**
 
+DOI 10.5281/zenodo.16750937
 Este repositório existe exclusivamente para:
 1. Registro público de autoria via DOI: 10.5281/zenodo.16750937
 2. Contato para licenciamento comercial
 
-**Nenhum dado técnico, parâmetro, código, método, simulação ou resultado será divulgado publicamente até a concessão da patente.**
-
+**Nenhum dado técnico, parâmetro, código, método, simulação ou resultado será divulgado publicamente.**
 **É EXPRESSAMENTE PROIBIDO:** copiar, reproduzir, fabricar, simular, distribuir ou fazer engenharia reversa desta tecnologia sem contrato de licença assinado pela titular.
 
 **VIOLAÇÃO:** Sujeita às penalidades da Lei 9.279/96, incluindo multa, indenização por lucros cessantes e ação criminal por concorrência desleal.
@@ -44,4 +42,4 @@ Este repositório existe exclusivamente para:
 
 **Investidores/Parcerias:** Entre em contato: mrammotooficial@gmail.com
 
-⚠️ **Patente Pendente BR 10 2026 XXXXXX-X** - Direitos reservados.
+
