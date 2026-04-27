@@ -36,3 +36,12 @@ Este repositório existe exclusivamente para:
 ---
 
 **Este repositório não contém informações técnicas. Não há código disponível.**
+## Licenciamento
+
+**Acadêmico/Pesquisa:** Uso livre com citação obrigatória. Veja `LICENSE` item 1.
+
+**Comercial:** Requer autorização e royalties. Veja `LICENSE` item 2.
+
+**Investidores/Parcerias:** Entre em contato: mrammotooficial@gmail.com
+
+⚠️ **Patente Pendente BR 10 2026 XXXXXX-X** - Direitos reservados.
