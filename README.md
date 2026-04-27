@@ -9,22 +9,21 @@ Uso comercial, fabricação ou engenharia reversa proibidos sem contrato.
 LICENCIAMENTO: mrammotooficial@gmail.com
 NDA obrigatório antes de qualquer disclosure técnico.
 
-DOI: 10.5281/zenodo.16750937
-g>##**⚠️ AVISO LEGAL - PROPRIEDADE INTELECTUAL** 
-> **MRAM-MOTO® K1 StreetSafe** é marca em processo de registro por Francielle Kunast (2026). 
-> **Autoria comprovada:** DOI [10.5281/zenodo.16750937](https://doi.org/10.5281/zenodo.16750937) - 16/ABR/2026 
+DOI Conceitual: 10.5281/zenodo.16750937  
+DOI Software: 10.5281/zenodo.19600223
+### **⚠️ AVISO LEGAL - PROPRIEDADE INTELECTUAL**
+> **Autoria comprovada:**  
+> Conceito: DOI [10.5281/zenodo.16750937](https://doi.org/10.5281/zenodo.16750937)  
+<a href="https://doi.org/10.5281/zenodo.19600223"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.19600223.svg" alt="DOI Software"></a>
+<a href="https://doi.org/10.5281/zenodo.16750937"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16750937.svg" alt="DOI Conceito"></a>
 
-<a href="https://doi.org/10.5281/zenodo.16750937"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16750937.svg" alt="DOI"></a>[[▶️ Assistir Lançamento](https://img.shields.io/badge/▶️_Assistir_Lançamento-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/francielle-kunast-possari-calazans-785a202a5_openscience-engenharia-inovaaexaeto-activity-7450569613093826561-fI44)
 
 ## Status Legal
 
+1. Registro público de autoria via DOI: 10.5281/zenodo.16750937 e 10.5281/zenodo.19600223
 
-DOI 10.5281/zenodo.16750937
-Este repositório existe exclusivamente para:
-1. Registro público de autoria via DOI: 10.5281/zenodo.16750937
 2. Contato para licenciamento comercial
 
-**Nenhum dado técnico, parâmetro, código, método, simulação ou resultado será divulgado publicamente.**
 **É EXPRESSAMENTE PROIBIDO:** copiar, reproduzir, fabricar, simular, distribuir ou fazer engenharia reversa desta tecnologia sem contrato de licença assinado pela titular.
 
 **VIOLAÇÃO:** Sujeita às penalidades da Lei 9.279/96, incluindo multa, indenização por lucros cessantes e ação criminal por concorrência desleal.
