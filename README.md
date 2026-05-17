@@ -105,3 +105,8 @@ M-RAM-X° é a evolução de marca do projeto anteriormente denominado MRAM. Ref
 **Autoria:** Francielle K. P. Calazans  
 **Contato:** mrammotooficial@gmail.com  
 **VITA PLENA - LIFE PROTECTED**
+Intellectual Property and Scientific Positioning
+
+For detailed technological scope, independent development statement and intellectual property positioning, see:
+
+➡️ "POSITIONING_AND_IP.md"
